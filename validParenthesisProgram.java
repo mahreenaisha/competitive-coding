@@ -1,3 +1,5 @@
+//TIP: HANDLE THE BASE CASE THAT IF THE CHARACTER IS CLOSING BRACKET
+
 import java.util.*;
 public class validParenthesisProgram {
 
